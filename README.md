@@ -1,16 +1,77 @@
-# React + Vite
+# 🍽️ Restro Premium
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and elegant restaurant website designed to deliver a premium digital dining experience.
 
-Currently, two official plugins are available:
+🌐 **Live Website:** https://restro-premium.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Overview
 
-## React Compiler
+Restro Premium is a responsive restaurant website built with modern frontend technologies. It focuses on clean design, smooth interactions, and an engaging user experience across desktop, tablet, and mobile devices.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+- Modern and premium UI design
+- Fully responsive layout
+- Interactive user interface
+- Smooth animations and transitions
+- Reusable React components
+- Optimized production build
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- React.js
+- JavaScript
+- Vite
+- Tailwind CSS
+- HTML5
+- CSS3
+- Git & GitHub
+- Vercel
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/viworkstech-collab/Restro-Premium.github.io.git
+```
+
+Navigate to the project:
+
+```bash
+cd Restro-Premium.github.io
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Create a production build:
+
+```bash
+npm run build
+```
+
+## Deployment
+
+The project is deployed using Vercel.
+
+**Live Demo:** https://restro-premium.vercel.app/
+
+## Author
+
+Developed and maintained by **ViWorkTech**.
+
+🌐 Website: https://viworktech.co.in/
+
+---
+
+⭐ If you like this project, consider giving the repository a star!
