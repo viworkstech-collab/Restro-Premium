@@ -7,7 +7,7 @@ const Timining = () => {
   <section id="timing" className="px-auto mt-44">
     <Animated scale={0.8} y={0} className="w-full max-5xl h-162.5 rounded-3xl bg-cover bg-center flex items-center justify-center md:justify-start px-9 md:px-10 overflow-hidden mx-auto" style={{ backgroundImage: `url(${restroTiming})` }}>
         {/*White Card OverLay*/}
-        <div className="bg-white rounded-3xl p-10 w-full max-w-sm">
+        <div className="bg-white rounded-3xl p-6 w-full max-w-sm">
             <Animated delay={0.2}>
                 <h3 className="text-3xl mb-10 font-medium">Opening Time:</h3>
             </Animated>
